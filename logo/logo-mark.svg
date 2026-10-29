@@ -1,17 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="512" height="512" role="img" aria-label="Biboşluk">
-  <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12304F"/><stop offset="1" stop-color="#0B1B2E"/></linearGradient>
-  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E8CB85"/><stop offset=".5" stop-color="#C9A24B"/><stop offset="1" stop-color="#A88332"/></linearGradient>
-  <linearGradient id="aqua" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5FE0EE"/><stop offset="1" stop-color="#19B5C9"/></linearGradient>
-</defs>
-  <circle cx="120" cy="120" r="108" fill="url(#bg)"/>
-  <circle cx="120" cy="120" r="92" fill="none" stroke="url(#gold)" stroke-width="4" stroke-linecap="round" stroke-dasharray="506 72" transform="rotate(-20 120 120)"/>
-  <path d="M192.5 46 C192.5 46 202 58 202 65 A9.5 9.5 0 0 1 183 65 C183 58 192.5 46 192.5 46 Z" fill="url(#aqua)"/>
-  <path d="M58 140 C58 130 62 125 74 123 L92 109 C98 103 106 100 118 100 L144 100 C154 100 160 104 168 113 L176 122 C184 124 188 129 188 140 L188 146 L58 146 Z" fill="url(#gold)"/>
-  <path d="M99 112 C103 108 109 106 118 106 L129 106 L129 121 L88 121 Z M136 106 L144 106 C150 106 154 108 159 114 L163 121 L136 121 Z" fill="#0B1B2E"/>
-  <circle cx="88" cy="146" r="14" fill="#0B1B2E" stroke="url(#gold)" stroke-width="4"/>
-  <circle cx="160" cy="146" r="14" fill="#0B1B2E" stroke="url(#gold)" stroke-width="4"/>
-  <circle cx="88" cy="146" r="4" fill="url(#gold)"/><circle cx="160" cy="146" r="4" fill="url(#gold)"/>
-  <path d="M70 168 Q120 180 176 168" fill="none" stroke="url(#aqua)" stroke-width="3" stroke-linecap="round" opacity=".9"/>
-  <path d="M88 178 Q122 186 158 178" fill="none" stroke="url(#aqua)" stroke-width="2.5" stroke-linecap="round" opacity=".55"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300" role="img" aria-label="Biboşluk"><defs>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0D791"/><stop offset=".5" stop-color="#C9A24B"/><stop offset="1" stop-color="#A88332"/></linearGradient>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B2E57"/><stop offset=".55" stop-color="#2A86AE"/><stop offset="1" stop-color="#F6DFA6"/></linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#27B7CB"/><stop offset="1" stop-color="#0A4C78"/></linearGradient>
+<linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFE9A8"/><stop offset="1" stop-color="#E2B04A"/></linearGradient>
+<linearGradient id="carg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#E9D9AE"/></linearGradient>
+<clipPath id="disc"><circle cx="150" cy="150" r="108"/></clipPath>
+<path id="arcT" d="M 29.00 150.00 A 121 121 0 0 1 271.00 150.00"/>
+<path id="arcB" d="M 17.00 150.00 A 133 133 0 0 0 283.00 150.00"/>
+</defs><circle cx="150" cy="150" r="148" fill="#0B1B2E"/>
+<circle cx="150" cy="150" r="143" fill="none" stroke="url(#gold)" stroke-width="2.5"/>
+<circle cx="150" cy="150" r="110" fill="none" stroke="url(#gold)" stroke-width="2"/>
+<g font-family="Montserrat,'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="14" letter-spacing="6" fill="#E8CB85" text-anchor="middle">
+<text><textPath href="#arcT" startOffset="50%">MERSİN</textPath></text>
+<text><textPath href="#arcB" startOffset="50%">KURULUŞ 2026</textPath></text></g>
+<g fill="url(#gold)"><path d="M25 150 l5 -5 l5 5 l-5 5z"/><path d="M275 150 l-5 -5 l-5 5 l5 5z"/></g>
+<g clip-path="url(#disc)">
+<rect x="30" y="30" width="240" height="145" fill="url(#sky)"/>
+<g stroke="url(#gold)" stroke-width="3" stroke-linecap="round"><line x1="98.0" y1="168.2" x2="80.0" y2="167.6"/><line x1="99.1" y1="159.2" x2="89.4" y2="157.1"/><line x1="101.8" y1="150.5" x2="85.1" y2="143.8"/><line x1="105.9" y1="142.4" x2="97.4" y2="137.1"/><line x1="111.4" y1="135.2" x2="98.0" y2="123.2"/><line x1="118.0" y1="129.0" x2="111.8" y2="121.1"/><line x1="125.6" y1="124.1" x2="117.1" y2="108.2"/><line x1="133.9" y1="120.5" x2="130.8" y2="111.0"/><line x1="142.8" y1="118.5" x2="140.3" y2="100.7"/><line x1="151.8" y1="118.0" x2="152.2" y2="108.0"/><line x1="160.8" y1="119.1" x2="164.6" y2="101.5"/><line x1="169.5" y1="121.8" x2="173.2" y2="112.5"/><line x1="177.6" y1="125.9" x2="187.1" y2="110.6"/><line x1="184.8" y1="131.4" x2="191.5" y2="123.9"/><line x1="191.0" y1="138.0" x2="205.2" y2="126.9"/><line x1="195.9" y1="145.6" x2="204.7" y2="140.9"/><line x1="199.5" y1="153.9" x2="216.6" y2="148.4"/><line x1="201.5" y1="162.8" x2="211.4" y2="161.4"/></g>
+<circle cx="150" cy="170" r="42" fill="url(#sun)"/>
+<rect x="30" y="170" width="240" height="110" fill="url(#sea)"/>
+<rect x="115.0" y="173" width="70" height="2.2" rx="1.1" fill="#FFE9A8" opacity="0.8"/><rect x="126.0" y="178" width="48" height="2.2" rx="1.1" fill="#FFE9A8" opacity="0.6"/><rect x="136.0" y="183" width="28" height="2.2" rx="1.1" fill="#FFE9A8" opacity="0.45"/><path d="M30 180 q6.5 -2.2 13.0 0 t13.0 0 q6.5 -2.2 13.0 0 t13.0 0 q6.5 -2.2 13.0 0 t13.0 0 q6.5 -2.2 13.0 0 t13.0 0 q6.5 -2.2 13.0 0 t13.0 0 q6.5 -2.2 13.0 0 t13.0 0 q6.5 -2.2 13.0 0 t13.0 0 q6.5 -2.2 13.0 0 t13.0 0 q6.5 -2.2 13.0 0 t13.0 0 q6.5 -2.2 13.0 0 t13.0 0" fill="none" stroke="#BDF1F6" stroke-width="1.6" stroke-linecap="round" opacity="0.55"/><path d="M30 190 q7.5 -2.6 15.0 0 t15.0 0 q7.5 -2.6 15.0 0 t15.0 0 q7.5 -2.6 15.0 0 t15.0 0 q7.5 -2.6 15.0 0 t15.0 0 q7.5 -2.6 15.0 0 t15.0 0 q7.5 -2.6 15.0 0 t15.0 0 q7.5 -2.6 15.0 0 t15.0 0 q7.5 -2.6 15.0 0 t15.0 0" fill="none" stroke="#BDF1F6" stroke-width="1.8" stroke-linecap="round" opacity="0.4"/><g fill="#082038"><ellipse cx="222" cy="173" rx="17" ry="4"/><rect x="212" y="162" width="20" height="11"/>
+<rect x="212" y="159" width="3" height="3"/><rect x="217" y="159" width="3" height="3"/><rect x="222" y="159" width="3" height="3"/><rect x="227" y="159" width="3" height="3"/><rect x="229" y="154" width="6" height="19"/><rect x="229" y="151" width="2" height="3"/><rect x="233" y="151" width="2" height="3"/></g>
+<path d="M30 218 Q150 188 270 218 L270 270 L30 270 Z" fill="#082038"/>
+<path d="M30 218 Q150 188 270 218" fill="none" stroke="url(#gold)" stroke-width="2.5"/>
+<path d="M62 196 Q66 150 84 112" fill="none" stroke="#082038" stroke-width="5" stroke-linecap="round"/><g fill="#082038"><path d="M84.0 112.0 Q61.9 92.9 41.5 116.6 Q59.3 102.6 84.0 112.0Z"/><path d="M84.0 112.0 Q70.4 83.4 52.9 86.9 Q63.4 90.4 84.0 112.0Z"/><path d="M84.0 112.0 Q82.6 79.3 72.6 69.5 Q72.9 81.9 84.0 112.0Z"/><path d="M84.0 112.0 Q95.1 81.9 95.4 71.5 Q85.4 79.3 84.0 112.0Z"/><path d="M84.0 112.0 Q104.6 90.4 115.1 90.9 Q97.6 83.4 84.0 112.0Z"/><path d="M84.0 112.0 Q108.7 102.6 126.5 120.6 Q106.1 92.9 84.0 112.0Z"/><path d="M84.0 112.0 Q59.3 103.3 40.7 145.6 Q61.0 113.1 84.0 112.0Z"/></g><g transform="translate(150 209) scale(.82) translate(-123 -160)">
+<path d="M58 140 C58 130 62 125 74 123 L92 109 C98 103 106 100 118 100 L144 100 C154 100 160 104 168 113 L176 122 C184 124 188 129 188 140 L188 146 L58 146 Z" fill="url(#carg)"/>
+<path d="M99 112 C103 108 109 106 118 106 L129 106 L129 121 L88 121 Z M136 106 L144 106 C150 106 154 108 159 114 L163 121 L136 121 Z" fill="#0B2A4A"/>
+<circle cx="88" cy="146" r="14" fill="#082038" stroke="url(#carg)" stroke-width="4"/><circle cx="160" cy="146" r="14" fill="#082038" stroke="url(#carg)" stroke-width="4"/>
+<circle cx="88" cy="146" r="4.5" fill="url(#gold)"/><circle cx="160" cy="146" r="4.5" fill="url(#gold)"/></g>
+</g></svg>
