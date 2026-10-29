@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240" width="760" height="240" role="img" aria-label="Biboşluk">
+  <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12304F"/><stop offset="1" stop-color="#0B1B2E"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E8CB85"/><stop offset=".5" stop-color="#C9A24B"/><stop offset="1" stop-color="#A88332"/></linearGradient>
+  <linearGradient id="aqua" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5FE0EE"/><stop offset="1" stop-color="#19B5C9"/></linearGradient>
+</defs>
+  <rect width="760" height="240" fill="#0B1B2E"/>
+  <circle cx="120" cy="120" r="108" fill="url(#bg)"/>
+  <circle cx="120" cy="120" r="92" fill="none" stroke="url(#gold)" stroke-width="4" stroke-linecap="round" stroke-dasharray="506 72" transform="rotate(-20 120 120)"/>
+  <path d="M192.5 46 C192.5 46 202 58 202 65 A9.5 9.5 0 0 1 183 65 C183 58 192.5 46 192.5 46 Z" fill="url(#aqua)"/>
+  <path d="M58 140 C58 130 62 125 74 123 L92 109 C98 103 106 100 118 100 L144 100 C154 100 160 104 168 113 L176 122 C184 124 188 129 188 140 L188 146 L58 146 Z" fill="url(#gold)"/>
+  <path d="M99 112 C103 108 109 106 118 106 L129 106 L129 121 L88 121 Z M136 106 L144 106 C150 106 154 108 159 114 L163 121 L136 121 Z" fill="#0B1B2E"/>
+  <circle cx="88" cy="146" r="14" fill="#0B1B2E" stroke="url(#gold)" stroke-width="4"/>
+  <circle cx="160" cy="146" r="14" fill="#0B1B2E" stroke="url(#gold)" stroke-width="4"/>
+  <circle cx="88" cy="146" r="4" fill="url(#gold)"/><circle cx="160" cy="146" r="4" fill="url(#gold)"/>
+  <path d="M70 168 Q120 180 176 168" fill="none" stroke="url(#aqua)" stroke-width="3" stroke-linecap="round" opacity=".9"/>
+  <path d="M88 178 Q122 186 158 178" fill="none" stroke="url(#aqua)" stroke-width="2.5" stroke-linecap="round" opacity=".55"/>
+  <text x="262" y="132" font-family="Montserrat, 'Helvetica Neue', Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="2" fill="#F4F1EA">Bi<tspan fill="#C9A24B">boşluk</tspan></text>
+  <text x="266" y="170" font-family="Montserrat, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="500" letter-spacing="7" fill="#F4F1EA" opacity=".75">ARACINA ELİT DOKUNUŞ</text>
+</svg>
